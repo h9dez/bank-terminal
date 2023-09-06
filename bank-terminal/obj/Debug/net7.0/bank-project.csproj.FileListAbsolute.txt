@@ -1,0 +1,15 @@
+/home/aluno/Área de Trabalho/bank-project/obj/Debug/net7.0/bank-project.csproj.AssemblyReference.cache
+/home/aluno/Área de Trabalho/bank-project/obj/Debug/net7.0/bank-project.GeneratedMSBuildEditorConfig.editorconfig
+/home/aluno/Área de Trabalho/bank-project/obj/Debug/net7.0/bank-project.AssemblyInfoInputs.cache
+/home/aluno/Área de Trabalho/bank-project/obj/Debug/net7.0/bank-project.AssemblyInfo.cs
+/home/aluno/Área de Trabalho/bank-project/obj/Debug/net7.0/bank-project.csproj.CoreCompileInputs.cache
+/home/aluno/Área de Trabalho/bank-project/bin/Debug/net7.0/bank-project
+/home/aluno/Área de Trabalho/bank-project/bin/Debug/net7.0/bank-project.deps.json
+/home/aluno/Área de Trabalho/bank-project/bin/Debug/net7.0/bank-project.runtimeconfig.json
+/home/aluno/Área de Trabalho/bank-project/bin/Debug/net7.0/bank-project.dll
+/home/aluno/Área de Trabalho/bank-project/bin/Debug/net7.0/bank-project.pdb
+/home/aluno/Área de Trabalho/bank-project/obj/Debug/net7.0/bank-project.dll
+/home/aluno/Área de Trabalho/bank-project/obj/Debug/net7.0/refint/bank-project.dll
+/home/aluno/Área de Trabalho/bank-project/obj/Debug/net7.0/bank-project.pdb
+/home/aluno/Área de Trabalho/bank-project/obj/Debug/net7.0/bank-project.genruntimeconfig.cache
+/home/aluno/Área de Trabalho/bank-project/obj/Debug/net7.0/ref/bank-project.dll
